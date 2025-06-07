@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdaili"]=self["webpackChunkdaili"]||[]).push([[7339],{17339:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var t=r(6254),u=(0,t.pM)({name:"orderManagement",__name:"index",setup(e){return(e,n)=>{const r=(0,t.g2)("router-view");return(0,t.uX)(),(0,t.Wv)(r)}}});const a=u;var i=a}}]);
+//# sourceMappingURL=7339.c5d3dc89.js.map
